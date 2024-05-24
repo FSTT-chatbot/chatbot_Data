@@ -172,7 +172,7 @@ Semestre 3:
 
 Semestre 4:
 
-- Électromagnétisme 
+- Électromagnétisme
 - Mécanique quantique et Relativité
 - Analyse 4: Séries de fonctions et calcul des résidus
 - Structure de données en C
@@ -252,7 +252,7 @@ Semestre 6:
 
 - Analyse et fouille de données
 - Systèmes et réseaux
-- Ingénierie des données 
+- Ingénierie des données
 - PFE
 
 Coordinnateur :Pr.BAIDA Ouafae:wbaida@uae.ac.ma
@@ -432,8 +432,8 @@ Semestre 5:
 
 Semestre 6:
 
-- Management du projet 
-- Microcontrôleur microprocesseur 
+- Management du projet
+- Microcontrôleur microprocesseur
 - Réseaux et base de données
 - Projet de fin d’études
 
@@ -478,7 +478,7 @@ Les orientations potentielles de poursuite des études sont de type : Masters à
 Semestre 5:
 
 - Programmation Orientée Objet en C++
-- Bases de Données 
+- Bases de Données
 - Architecture C/S et Développement Web Dynamique
 - Introduction aux Réseaux Informatiques
 - Système d’exploitation UNIX/Linux
@@ -540,7 +540,7 @@ Semestre 6:
 
 - Innover, Entreprendre et s’initier à la Gestion d'une Entreprise avec un ERP
 - Initiation en développement mobile et Edge Computing
-- Développement web avancé Back end (Python) 
+- Développement web avancé Back end (Python)
 - PFE
 
 Coordinnateur :Pr.KOUNAIDI Mohamed: m.kounaidi@@uae.ac.ma
@@ -621,7 +621,7 @@ Semestre 6:
 
 - PYTHON ET MACHINE LEARNING
 - Mathématiques pour l'Intelligence Artificiel
-- Analyse numérique et équations différentielles 
+- Analyse numérique et équations différentielles
 - PFE
 
 Coordinnateur :Pr.LAHROUZ Adil: a.lahrouz@uae.ac.ma
@@ -685,7 +685,7 @@ Semestre 6:
 
 - Programmation Python et Machine Learning
 - Mathématiques pour l’Intelligence Artificielle
-- Régression – Anova et Maîtrise Statistique des Procédés 
+- Régression – Anova et Maîtrise Statistique des Procédés
 - PFE
 
 Coordinnateur :Pr.EL MERZGUIOUI Mhamed: melmerzguioui@uae.ac.ma
@@ -791,7 +791,7 @@ Semestre 2:
 
 Semestre 3 - BVA:
 
-- Fonctionnement des cellules végétales 
+- Fonctionnement des cellules végétales
 - Interaction plante/Microorganismes,application en agroécologie
 - Technologies des PAM et des microalgues
 - Marqueurs moléculaires et cartographie génétique
@@ -835,7 +835,7 @@ Semestre 1:
 
 - Écosystèmes aquatiques et pollution : salubrité et biosurveillance gouvernance
 - typologie des écosystèmes aquatiques
-- Ressources halieutiques (biologie, évaluation et gestion) 
+- Ressources halieutiques (biologie, évaluation et gestion)
 - Téledetection et traitement d’images optiques
 - Analyse bio statistique/Méthodologie de la rédaction
 - Anglais/développement personnel
@@ -877,17 +877,17 @@ Cette formation est proposée afin de former et Contribuer à la formation et la
 
 Semestre 1:
 
-- Géodynamique et Analyse des Bassins Sédimentaires 
-- Géologie structurale et Tectonophysique 
-- Micropaléontologie intégrée 
-- Géologie du Maroc et systèmes pétroliers associées 
-- Mécanique des fluides et Hydraulique 
+- Géodynamique et Analyse des Bassins Sédimentaires
+- Géologie structurale et Tectonophysique
+- Micropaléontologie intégrée
+- Géologie du Maroc et systèmes pétroliers associées
+- Mécanique des fluides et Hydraulique
 - Géomatique Appliquée aux Géoressources énergétiques
 
 Semestre 2:
 
-- Pétrologie Sédimentaire 
-- Sédimentologie et paléoenvironnements sédimentaires 
+- Pétrologie Sédimentaire
+- Sédimentologie et paléoenvironnements sédimentaires
 - Modélisation et Simulation Numérique en Géosciences
 - Télédétection Optique et Radar Appliquées aux Géoressources énergétiques
 - Géostatistiques et analyse des données
@@ -1199,7 +1199,7 @@ Semestre 1:
 - Anglais Scientifique I & Soft Skils
 - Programmation Avancée avec Python et R
 - Analyse Numérique Matricielle Avancée
-- Modélisation et calcul fractionnaire 
+- Modélisation et calcul fractionnaire
 - Equation différentielle stochastique (EDS)
 - Analyse fonctionnelle et applications
 
@@ -1214,7 +1214,7 @@ Semestre 2:
 
 Semestre 3:
 
-- Analyses de données /BIG DATA 
+- Analyses de données /BIG DATA
 - Modèles Mixtes et applications sous R
 - Semi Groupes et équation d'évolution
 - Optimisation et contrôle Optimal
@@ -1252,7 +1252,7 @@ Semestre 2:
 - Production animale/Production végétale
 - Marketing et économie de filière
 - Réglementation et système de management de la santé et sécurité alimentaire
-- Filière de production : Transformation des produits d’origine végétale 
+- Filière de production : Transformation des produits d’origine végétale
 - Filière de production : Transformation des produits d’origine animale
 
 Semestre 3:
@@ -1439,7 +1439,7 @@ Semestre 2:
 
 Semestre 3:
 
-- Analysis, Mining And Indexing In Big Multimedia Systems 
+- Analysis, Mining And Indexing In Big Multimedia Systems
 - Développement Mobile
 - Cyber sécurité et investigation
 - Objets Connectés et Intelligence
@@ -1484,7 +1484,7 @@ Semestre 3:
 
 - Mathématiques pour l’ingénieur II
 - Électrotechnique
-- Traitement de signal 
+- Traitement de signal
 - Les sources d’énergies et réseaux de distribution
 - Machines Industrielles
 - GRH & Droit du travail
@@ -1560,8 +1560,8 @@ Semestre 4:
 
 Semestre 5:
 
-- Gestion de Production et management de projet 
-- GRH et Comptabilité Analytique 
+- Gestion de Production et management de projet
+- GRH et Comptabilité Analytique
 - QSE et Laen Manufacturing
 - Outils de la Qualité et six sigma
 - Logistique, Gestion intégrée & transport
@@ -1669,7 +1669,7 @@ Semestre 3:
 
 - Systèmes embarqués & Internet des objets
 - Gestion de projet Informatique & Planification des ressources d'entreprise (open ERP)
-- Administration des bases de données 
+- Administration des bases de données
 - Méthodologies de l'Intelligence Artificielle
 - Architectures web distribuées (J2EE)
 - Anglais Avancée & Techniques d'exposition
@@ -1698,9 +1698,7 @@ Semestre 6:
 
 Coordinnateur pédagogique :Pr.Lotfi EL AACHAK : lelaachak@uae.ac.ma
 
-
-I- PRESENTATION DE LA FST DE TANGER & DIAGNOSIQUE
-
+I- PRESENTATION DE LA FST DE TANGER & DIAGNOSIQUE:
 La Faculté des Sciences et Techniques de Tanger (FSTT), relevant de l’Université Abdelmalek Essaâdi a été créée en 1995. Elle fait partie des établissements de l’enseignement supérieur à accès régulé et a pour missions la formation initiale dans les domaines scientifiques et techniques, la formation continue ainsi que la recherche et le développement dans les domaines des sciences et techniques.
 
 Formation Initiale:
@@ -1715,10 +1713,10 @@ La FST de Tanger propose une panoplie de formation riches et diversifiées répo
 Formation continue:
 Les programmes de la formation continue sont destinés aux professionnels qui souhaitent acquérir des nouvelles compétences ou approfondir leurs connaissances dans leur domaine d’activité.
 Les formations proposées couvrent des programmes variés dans les domaines des sciences et de la technologie tels que:
-Les sciences de l’ingénierie de l’Informatique- Civil –Mécanique-Electrotechnique – Industrielle et autres.
+Les sciences de l’ingénieriede l’Informatique- Civil –Mécanique-Electrotechnique – Industrielle et autres.
 
 Recherche scientifique:
-La recherche scientifique à la FST de Tanger est structurée autour de 7 laboratoires,11 équipes de recherche, 2 centres (CDI: Centre de Développement et de l’Innovation et le CFA: Centre de Fabrication Additive) et un Observatoire Digital de l’Environnement. Les thématiques de recherches développées par ces structures concernent:
+La recherche scientifique à la FST de Tanger est structurée autour de 7 laboratoires,11 équipes de recherche, 2 centres (CDI: Centre de Développement et de l’Innovation et le CFA: Centre de Fabrication Additive) et un Observatoire Digital de l’Environnement. Les thématiques de recherches développées par ces structures concernent :
 L’agro-alimentaire, la biotechnologie, Biologie et santé
 L’Énergie et l’Efficacité Énergétique
 L’Eau et l’Environnement
@@ -1727,12 +1725,90 @@ Les Mathématiques et Informatique
 Autres
 
 Fablab Green Lab:
+
 Le Green Lab est un FabLab a été créé pour encourager l’innovation, la créativité et l’esprit d’entreprise chez les étudiants et les membres de la communauté locale.
 Le Green Lab est équipé d’une variété d’outils et de technologies, tels que des imprimantes 3D, des machines de découpe laser, des fraiseuses CNC et des équipements électroniques. Ces outils permettent aux membres du laboratoire de concevoir, prototyper et fabriquer une grande variété de projets, allant de petits gadgets électroniques aux prototypes de produits commerciaux.
 Le laboratoire est également axé sur la durabilité et l’environnement, avec une forte emphase sur les projets qui utilisent des matériaux recyclés ou respectueux de l’environnement. Les Etudiants du Green Lab travaillent sur des projets qui abordent des problèmes environnementaux tels que la pollution de l’eau, la gestion des déchets, la durabilité des ressources naturelles et l’agriculture urbaine.
 Le Green Lab est ouvert aux étudiants de tous les départements de la Faculté des Sciences et Techniques de Tanger, ainsi qu’aux membres de la communauté locale qui souhaitent utiliser les installations. Il offre également des ateliers de formation sur les compétences techniques, la conception de produits et l’entrepreneuriat.
-
-Les clubs des Etudiants:
+Les clubs des Etudiants
 Les clubs des étudiants peuvent apporter une valeur ajoutée significative à la vie universitaire. Tout d’abord, les clubs offrent une occasion aux étudiants de s’engager dans des activités qui les passionnent et de rencontrer des personnes partageant les mêmes intérêts.
 De plus, les clubs peuvent aider à renforcer les compétences de leadership et à développer des compétences professionnelles, ce qui peut être bénéfique pour les futurs parcours professionnels des étudiants.
 
+Phone: + 212 (0) 5 39 39 39 54 / 55
+Email: administration.fstt@uae.ac.ma
+
+Le monde d’aujourd’hui connait des évolutions majeures et complexes caractérisées par la globalisation des échanges et l’intensification de la concurrence. Le Maroc n’échappe pas à cette tendance. Il est confronté à des enjeux de développement et de croissance basés essentiellement sur le capital humain. D’où la nécessité, pour le Maroc, de se doter d’un système d’éducation et de formation performant productif de savoir et innovateur afin de produire des compétences et des profils qualifiés, une jeunesse en mesure de répondre au besoin du marché et de prendre en charge tant les entreprises des divers secteurs de l’économie que les organismes investis de missions de service public, de même que les chercheurs et les intellectuels indispensables au développement d’une société du savoir et d’économie.
+Notre projet de développement de la FST de Tanger est conscient du rôle que doit jouer cette dernière dans le développement socio-économique régional et national où elle ne doit plus se contenter d’assurer seulement ses missions classiques de formations générales scientifiques et techniques. Elle doit aussi étendre son rôle à l’éducation citoyenne par la formation de nouvelles générations de cadre, conscients de leurs responsabilités en tant que vecteurs de développement social et économique du Royaume, et entièrement acquis aux valeurs sacrées de notre pays et aux valeurs universelles humaines de droiture, d’intégrité, d’ouverture, de tolérance…
+Partant des orientations du Nouveau Modèle de Développement, de la stratégie nationale 2015-2030 et du projet de développement de l’université, notre ambition pour cet établissement est d’en faire une institution attractive, performante, citoyenne et une locomotive du développement socio-économique de la région Tanger Tétouan Al Hoceima.
+Concrètement notre projet de développement de l’établissement a pour objectifs principaux :
+– Développer une offre de formation innovante, diversifiée et qui répond aux attentes des étudiants et aux besoins du secteur socio-économique.
+– Développer une recherche scientifique d’excellence alignée sur les thématiques prioritaires de développement économique, ancrée dans son territoire et ouverte à l’internationale.
+– Améliorer la gouvernance de l’établissement.
+– Développer la digitalisation des différentes activités de l’établissement (enseignement, recherche et gestion administrative).
+– Améliorer les conditions d’accueil, d’intégration, et d’accompagnement des étudiants
+– Développer davantage la mobilité internationale des étudiants et du personnel académique et administratif.
+– Améliorer l’employabilité des lauréats.
+Enfin, la FST de Tanger, mérite toute notre engagement et nous mettrons toute notre énergie, notre expérience, notre volonté d’agir et notre temps à son service, pour qu’elle soit un établissement d’excellence ouvert sur son environnement socio-économique et visible à l’échelle nationale et internationale.
+
+Conseil de l’établissement:
+La Faculté est gérée par un conseil d’établissement présidé par le Doyen. Le conseil de l’établissement comprend des membres de droit, des représentants élus des personnels enseignants et des personnels administratifs et techniques, des représentants élus des étudiants, ainsi que des membres désignés parmi des personnalités extérieures.
+
+DIANI Mustapha : Doyen
+JBILOU Mohammed : Vice Doyen de la Formation
+OUARDOUZ Mustapha : Vice Doyen de la Recherche et de la coopération
+BIHRI Hassan : SG chargé du secrétariat du conseil
+AJDOUR Mounia : Chef du département de Physique
+CHABBI Mohamed : Chef du département de Génie Chimique
+EL HALIMI Rachid : Chef du département des Mathématiques
+EL BRAK Mohamed : Chef du département de Génie Informatique
+BOULAASSAL Hakim : Chef du département des Sciences de la Terre
+HADJ BARAKA Ibrahim : Chef du département de Génie Électrique
+ELAYACHI Ilham : Chef du département de Génie Mécanique
+OUCHEN Mohamed : Chef du département de Langue et Communication
+HASSANI ZERROUK Mounir : Chef du département des Sciences de la Vie
+AOUNI Abdesamad : Représentant des P.E.S
+BOUASSAB Abderrahman : Représentant des P.E.S
+EL METOUI Mustapha : Représentant des P.E.S
+EN-NAIMI El Mokhtar : Représentant des P.E.S
+DERFOUFI Soufiane : Représentant des P.H
+EL MERZGUIOUI Mhamed : Représentant des P.H
+JEBARI HASSANI Khalid : Représentant des P.H
+ZANOUNI Mohamed : Représentant des P.H
+BOUAYAD Nouredin : Représentant des P.A
+BOUZID Saida : Représentant des P.A
+FIKRI BENBRAHIM Chahinaze : Représentant des P.A
+KHALI ISSA  Sanae : Représentant des P.A
+EL MAMOUN Abdellah : Représentant  des Personnels Administratifs et Techniques
+MAAREF  Abdelkader : Représentant  des Personnels Administratifs et Techniques
+EZ-ZHAR EL IDRISSI Mohammed Yassine : Représentant des étudiants
+JAYED Youssef : Représentant des étudiants
+
+
+
+departement : GÉNIE INFORMATIQUE
+Chef Chef : Pr.EL BRAK Mohamed
+Email melbrak@uae.ac.ma
+departement : GÉNIE CHIMIQUE
+Chef Chef : Pr.CHABBI Mohamed
+Email mchabbi@uae.ac.ma
+departement : SCIENCES DE LA TERRE
+Chef Chef : Pr.BOULAASSAL Hakim
+Email h.boulaassal@uae.ac.ma
+departement : GÉNIE MÉCANIQUE
+Chef Chef : Pr.ELAYACHI Ilham
+Email i.elayachi@uae.ac.ma
+departement : SCIENCES DE LA VIE
+Chef Chef : Pr.HASSANI ZERROUK Mounir
+Email : mhassani@uae.ac.ma
+departement : GÉNIE ELECTRIQUE
+Chef Chef : Pr.HADJ BARAKA Ibrahim
+Email ihadjbaraka@uae.ac.ma
+departement : TEC
+Chef Chef : Pr.OUCHEN MOHAMED
+Email mouchen@uae.ac.ma
+departement : PHYSIQUE
+Chef Chef  : Pr.AJDOUR Mounia
+Email majdour@uae.ac.ma
+departement : MATHÉMATIQUES
+Chef Chef : Pr.EL HALIMI RACHID
+Email r.elhalimi@uae.ac.ma
