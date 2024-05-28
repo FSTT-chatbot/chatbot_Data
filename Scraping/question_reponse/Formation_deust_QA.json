@@ -1,0 +1,142 @@
+{
+    "formation BCG": [
+        {
+            "question": "Qu'est-ce que le tronc commun BCG?",
+            "reponse": "Le tronc commun BCG est un cursus qui vise à fournir à l'étudiant une base de connaissances, d'aptitudes et de compétences dans plusieurs champs disciplinaires, notamment la chimie, la biologie et la géologie. Il a pour objectif de développer chez l'étudiant un esprit de synthèse, de rigueur et d'initiative, ainsi que les outils méthodologiques nécessaires à l'organisation du travail."
+        },
+        {
+            "question": "Quels sont les objectifs de la formation BCG?",
+            "reponse": "Les objectifs de cette formation sont de permettre à l'étudiant d'orienter sa carrière vers les licences de chimie, de biologie et de géologie, ainsi que de lui offrir la possibilité de postuler à des concours d'accès aux cycles ingénieurs de l'établissement et aux concours nationaux ou internationaux des écoles d'ingénieurs."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation BCG?",
+            "reponse": "Le coordinateur de la formation BCG est le Professeur Chouaibi Nour Eddine. Son adresse e-mail est n.chouaibi@uae.ac.ma."
+        },
+        {
+            "question": "Quels modules sont proposés au semestre 1 de la formation BCG?",
+            "reponse": "Les modules du semestre 1 sont : Biologie cellulaire, Optique et Radioactivité, Cosmologie & Géodynamique interne, Structure de la matière, Algèbre, Langues et Communication - LC1."
+        },
+        {
+            "question": "Quels cours sont inclus dans le semestre 3 de la formation BCG?",
+            "reponse": "Le semestre 3 comprend les cours suivants : Biologie végétale, Électricité, Stratigraphie & Paléo-environnement, Chimie Organique 1, Chimie Minérale 1, Probabilités/Statistiques."
+        },
+        {
+            "question": "Quelles sont les matières enseignées au semestre 4 de la formation BCG?",
+            "reponse": "Au semestre 4, les matières enseignées sont : Biochimie structurale, Microbiologie, Chimie organique 2/ chimie minérale 2, Biochimie métabolique, Base de données, Langues et Communication – LC3."
+        },
+        {
+            "question": "Quel est le rôle du coordinateur dans la formation BCG?",
+            "reponse": "Le coordinateur de la formation BCG est responsable de la coordination et de la supervision de l'ensemble du cursus. Il assure le bon déroulement des activités pédagogiques et administratives liées à la formation."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation BCG?",
+            "reponse": "Le coordinateur de la formation BCG est le Professeur Chouaibi Nour Eddine."
+        },
+        {
+            "question": "Quelle est l'adresse e-mail du coordinateur de la formation BCG?",
+            "reponse": "L'adresse e-mail du coordinateur de la formation BCG est n.chouaibi@uae.ac.ma."
+        }
+    ],
+    "formation GE/GM": [
+        {
+            "question": "Qu'est-ce que le tronc commun GE/GM?",
+            "reponse": "Le tronc commun GE/GM est un cursus qui vise à fournir à l’étudiant une base solide en matières scientifiques et techniques, telles que la physique, la chimie, les mathématiques, l'électrotechnique, l'automatique, la mécanique, l'instrumentation et la métrologie. Il permet aux étudiants de poursuivre leurs études en licences relevant de ce parcours tout en ayant la possibilité de se réorienter vers d'autres licences proposées par d'autres troncs communs."
+        },
+        {
+            "question": "Quels sont les objectifs de la formation GE/GM?",
+            "reponse": "Les objectifs de cette formation sont de donner à l’étudiant une base solide en matières scientifiques et techniques, lui permettant de continuer ses études en licences issues de ce parcours. De plus, ce tronc commun offre la possibilité aux étudiants de postuler à des concours nationaux ou internationaux des écoles d’ingénieurs."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation GE/GM?",
+            "reponse": "Le coordinateur de la formation GE/GM est le Professeur Jbilou Mohammed. Son adresse e-mail est mjbilou@uae.ac.ma."
+        },
+        {
+            "question": "Quels modules sont proposés au semestre 1 de la formation GE/GM?",
+            "reponse": "Les modules du semestre 1 sont : Circuits électriques et électroniques, Electricité, Analyse 1 : Fonction d’une variable réelle, Algèbre 1 : Polynômes et espaces vectoriels, Algorithmique et Programmation 1, Langues et Communication - LC1."
+        },
+        {
+            "question": "Quels cours sont inclus dans le semestre 3 de la formation GE/GM?",
+            "reponse": "Le semestre 3 comprend les cours suivants : Mécanique des Solides, Electronique, Statistique descriptive/probabilités, Algorithmique et Programmation 2, Métrologie et instrumentation, Gestion."
+        },
+        {
+            "question": "Quelles sont les matières enseignées au semestre 4 de la formation GE/GM?",
+            "reponse": "Au semestre 4, les matières enseignées sont : Electrotechnique, Automatique, Fabrication mécanique, Construction mécanique, Informatique 3, Analyse numérique."
+        }, {
+            "question": "Qui est le coordinateur de la formation GE/GM?",
+            "reponse": "Le coordinateur de la formation GE/GM est le Professeur Jbilou Mohammed."
+        },
+        {
+            "question": "Quelle est l'adresse e-mail du coordinateur de la formation GE/GM?",
+            "reponse": "L'adresse e-mail du coordinateur de la formation GE/GM est mjbilou@uae.ac.ma."
+        }
+    ],
+    "formation MIP": [
+        {
+            "question": "Qu'est-ce que le tronc commun MIP?",
+            "reponse": "Le tronc commun MIP vise à fournir à l’étudiant une base solide dans les matières scientifiques telles que la physique, la chimie et les mathématiques. Il lui permet de poursuivre ses études dans les semestres S5 et S6 des cycles licences qui découlent de ce parcours, tout en conservant la possibilité de se réorienter vers d’autres troncs communs comme MIPC et GE/GM."
+        },
+        {
+            "question": "Quels sont les objectifs de la formation MIP?",
+            "reponse": "Les objectifs de cette formation sont de permettre à l’étudiant de continuer ses études dans les semestres S5 et S6 des cycles licences issus de ce parcours. De plus, le tronc commun MIP offre la possibilité à l’étudiant de se réorienter vers d’autres troncs communs comme MIPC et GE/GM. Il permet également à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans l’établissement ainsi qu’à des concours nationaux ou internationaux des écoles d’ingénieurs."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation MIP?",
+            "reponse": "Le coordinateur de la formation MIP est le Professeur Jbilou Mohammed. Son adresse e-mail est mjbilou@uae.ac.ma."
+        },
+        {
+            "question": "Quels sont les modules proposés au semestre 1 de la formation MIP?",
+            "reponse": "Les modules du semestre 1 sont : Circuits électriques et électroniques, Electricité, Analyse 1 : Fonction d’une variable réelle, Algèbre 1 : Polynômes et espaces vectoriels, Algorithmique et Programmation 1, Langues et Communication - LC1."
+        },
+        {
+            "question": "Quels cours sont inclus dans le semestre 3 de la formation MIP?",
+            "reponse": "Le semestre 3 comprend les cours suivants : Mécanique des Solides, Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples, Statistique descriptive/probabilités, Algorithmique et Programmation 2, Réactivité chimique, LC3."
+        },
+        {
+            "question": "Quelles sont les matières enseignées au semestre 4 de la formation MIP?",
+            "reponse": "Au semestre 4, les matières enseignées sont : Électromagnétisme, Mécanique quantique et Relativité, Analyse 4: Séries de fonctions et calcul des résidus, Structure de données en C, Chimie organique 1, Chimie minérale 1."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation MIP?",
+            "reponse": "Le coordinateur de la formation MIP est le Professeur Jbilou Mohammed."
+        },
+        {
+            "question": "Quelle est l'adresse e-mail du coordinateur de la formation MIP?",
+            "reponse": "L'adresse e-mail du coordinateur de la formation MIP est mjbilou@uae.ac.ma."
+        }
+    ],
+    "formation MIPC": [
+        {
+            "question": "Qu'est-ce que le tronc commun MIPC?",
+            "reponse": "Le tronc commun MIPC vise à fournir à l’étudiant une base solide dans les matières scientifiques telles que la physique, la chimie et les mathématiques. Il lui permet de poursuivre ses études dans les semestres S5 et S6 des cycles licences qui découlent de ce parcours, tout en conservant la possibilité de se réorienter vers d’autres troncs communs comme MIP et GE/GM."
+        },
+        {
+            "question": "Quels sont les objectifs de la formation MIPC?",
+            "reponse": "Les objectifs de cette formation sont de permettre à l’étudiant de continuer ses études dans les semestres S5 et S6 des cycles licences issus de ce parcours. De plus, le tronc commun MIPC offre la possibilité à l’étudiant de se réorienter vers d’autres troncs communs comme MIP et GE/GM. Il permet également à l’étudiant de postuler à des concours d’accès aux cycles ingénieurs dispensés dans l’établissement ainsi qu’à des concours nationaux ou internationaux des écoles d’ingénieurs."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation MIPC?",
+            "reponse": "Le coordinateur de la formation MIPC est le Professeur Jbilou Mohammed. Son adresse e-mail est mjbilou@uae.ac.ma."
+        },
+        {
+            "question": "Quels sont les modules proposés au semestre 1 de la formation MIPC?",
+            "reponse": "Les modules du semestre 1 sont : Circuits électriques et électroniques, Electricité, Analyse 1 : Fonction d’une variable réelle, Algèbre 1 : Polynômes et espaces vectoriels, Algorithmique et Programmation 1, Langues et Communication - LC1."
+        },
+        {
+            "question": "Quels cours sont inclus dans le semestre 3 de la formation MIPC?",
+            "reponse": "Le semestre 3 comprend les cours suivants : Électromagnétisme, Analyse 3 : Fonctions de plusieurs variables et calcul des intégrales multiples, Statistique descriptive/probabilités, Algorithmique et Programmation 2, Réactivité chimique, LC3."
+        },
+        {
+            "question": "Quelles sont les matières enseignées au semestre 4 de la formation MIPC?",
+            "reponse": "Au semestre 4, les matières enseignées sont : Mécanique des Solides, Mécanique quantique et Relativité, Analyse 4: Séries de fonctions et calcul des résidus, Structure de données en C, Chimie organique 1, Chimie minérale 1."
+        },
+        {
+            "question": "Qui est le coordinateur de la formation MIPC?",
+            "reponse": "Le coordinateur de la formation MIPC est le Professeur Jbilou Mohammed."
+        },
+        {
+            "question": "Quelle est l'adresse e-mail du coordinateur de la formation MIPC?",
+            "reponse": "L'adresse e-mail du coordinateur de la formation MIPC est mjbilou@uae.ac.ma."
+        }
+        ]
+    }
+
