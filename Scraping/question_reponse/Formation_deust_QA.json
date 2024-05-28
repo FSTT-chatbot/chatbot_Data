@@ -1,5 +1,4 @@
-{
-    "formation BCG": [
+[
         {
             "question": "Qu'est-ce que le tronc commun BCG?",
             "reponse": "Le tronc commun BCG est un cursus qui vise à fournir à l'étudiant une base de connaissances, d'aptitudes et de compétences dans plusieurs champs disciplinaires, notamment la chimie, la biologie et la géologie. Il a pour objectif de développer chez l'étudiant un esprit de synthèse, de rigueur et d'initiative, ainsi que les outils méthodologiques nécessaires à l'organisation du travail."
@@ -35,9 +34,7 @@
         {
             "question": "Quelle est l'adresse e-mail du coordinateur de la formation BCG?",
             "reponse": "L'adresse e-mail du coordinateur de la formation BCG est n.chouaibi@uae.ac.ma."
-        }
-    ],
-    "formation GE/GM": [
+        },
         {
             "question": "Qu'est-ce que le tronc commun GE/GM?",
             "reponse": "Le tronc commun GE/GM est un cursus qui vise à fournir à l’étudiant une base solide en matières scientifiques et techniques, telles que la physique, la chimie, les mathématiques, l'électrotechnique, l'automatique, la mécanique, l'instrumentation et la métrologie. Il permet aux étudiants de poursuivre leurs études en licences relevant de ce parcours tout en ayant la possibilité de se réorienter vers d'autres licences proposées par d'autres troncs communs."
@@ -68,9 +65,7 @@
         {
             "question": "Quelle est l'adresse e-mail du coordinateur de la formation GE/GM?",
             "reponse": "L'adresse e-mail du coordinateur de la formation GE/GM est mjbilou@uae.ac.ma."
-        }
-    ],
-    "formation MIP": [
+        },
         {
             "question": "Qu'est-ce que le tronc commun MIP?",
             "reponse": "Le tronc commun MIP vise à fournir à l’étudiant une base solide dans les matières scientifiques telles que la physique, la chimie et les mathématiques. Il lui permet de poursuivre ses études dans les semestres S5 et S6 des cycles licences qui découlent de ce parcours, tout en conservant la possibilité de se réorienter vers d’autres troncs communs comme MIPC et GE/GM."
@@ -102,9 +97,7 @@
         {
             "question": "Quelle est l'adresse e-mail du coordinateur de la formation MIP?",
             "reponse": "L'adresse e-mail du coordinateur de la formation MIP est mjbilou@uae.ac.ma."
-        }
-    ],
-    "formation MIPC": [
+        },
         {
             "question": "Qu'est-ce que le tronc commun MIPC?",
             "reponse": "Le tronc commun MIPC vise à fournir à l’étudiant une base solide dans les matières scientifiques telles que la physique, la chimie et les mathématiques. Il lui permet de poursuivre ses études dans les semestres S5 et S6 des cycles licences qui découlent de ce parcours, tout en conservant la possibilité de se réorienter vers d’autres troncs communs comme MIP et GE/GM."
@@ -137,6 +130,5 @@
             "question": "Quelle est l'adresse e-mail du coordinateur de la formation MIPC?",
             "reponse": "L'adresse e-mail du coordinateur de la formation MIPC est mjbilou@uae.ac.ma."
         }
-        ]
-    }
+  ]
 

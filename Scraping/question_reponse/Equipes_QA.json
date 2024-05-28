@@ -1,406 +1,408 @@
 [
+
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Biochimie et Génétique Moléculaire (UAE/U07FST)"
+      "question": "Qui est le directeur de l'équipe Biochimie et Génétique Moléculaire ?",
+      "reponse": " Pr.NHIRI Mohamed, Spécialité : Biochimie/Biotechnologie"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr.NHIRI Mohamed, Spécialité : Biochimie/Biotechnologie, Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 70 77 91 85, E-mail : mnhiri@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Biochimie et Génétique Moléculaire ?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 70 77 91 85, E-mail : mnhiri@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Biochimie et Génétique Moléculaire couvre-t-elle ?",
       "reponse": "Criblage des molécules issues des plantes médicinales et aromatiques marocaines et leur effet antioxydant, anticancreux, antidiabétique et anti-parkinson. Interaction carbone/azote chez les plantes C4. Recherche sur les biostimulants à partir des macro-algues et PAM. Contribution à l'étude et la mise au point de méthodes spectrométriques de caractérisation des laits de vache commercialisés au Maroc et application au contrôle qualité des produits laitiers."
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Biochimie et Génétique Moléculaire ?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Biochimie et Génétique Moléculaire ?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Biochimie et Génétique Moléculaire ?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": "CHIBI Fatiha f.chibi@uae.ac.ma BENYASSIN Ahmeda.benyassi@uae.ac.ma BOUAYYAD Abdelwarit habouayyad@uae.ac.ma NHIRI Mohamed mnhiri@uae.ac.ma RKAINA Mohamed m.rkaina@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Biochimie et Génétique Moléculaire?",
+      "reponse": "CHIBI Fatiha, BENYASSIN Ahmed, BOUAYYAD Abdelwarit, NHIRI Mohamed, RKAINA Mohamed"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Biotechnologies et Génie des Biomolécules (ERBGB)"
+      "question": "Qui est le directeur de l'équipe Biotechnologies et Génie des Biomolécules (ERBGB)?",
+      "reponse": "Pr.BAKKALI Mohammed, Spécialité : Écologie/Environnement"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr.BAKKALI Mohammed, Spécialité : Écologie/Environnement, Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 62 74 88 04, E-mail : m.bakkali@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Biotechnologies et Génie des Biomolécules (ERBGB) ?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 62 74 88 04, E-mail : m.bakkali@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Biotechnologies et Génie des Biomolécules (ERBGB) couvre-t-elle ?",
       "reponse": "Fertilisation du sol, Biotechnologies et biodiversité végétale, Procédés de biofermentation et technologies de conservation des aliments, Amélioration de la qualité des produits et services, Histoire des sciences"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Biotechnologies et Génie des Biomolécules (ERBGB)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Biotechnologies et Génie des Biomolécules (ERBGB)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Biotechnologies et Génie des Biomolécules (ERBGB)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": "BAKKALI Mohammed m.bakkali@uae.ac.ma ARAKRAK Abdelhay aarakrak@uae.ac.ma AARAB Ahmed aaarab@uae.ac.ma LAGLAOUI Amin alaglaoui@uae.ac.ma CHICHI Abdellah achichi@uae.ac.ma HASSANI ZERROUK Mounir mhassani@uae.ac.ma EL GALIOU Ouiam oelgaliou@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Biotechnologies et Génie des Biomolécules (ERBGB) ?",
+      "reponse": "BAKKALI Mohammed ,ARAKRAK Abdelhay ,AARAB Ahmed ,LAGLAOUI Amin ,CHICHI Abdellah ,HASSANI ZERROUK Mounir ,EL GALIOU Ouiam"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Couches Minces et Nanomatériaux (ERCMN)"
+      "question": "Qui est le directeur de l'équipe Couches Minces et Nanomatériaux (ERCMN)?",
+      "reponse": " Pr.AOUNI ABDESAMAD, Spécialité : Sciences des Matériaux"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr.AOUNI ABDESAMAD, Spécialité : Sciences des Matériaux, Téléphone : 05 39 39 39 / 54 / 55, GSM : 0677 57 22 49, E-mail : aaouni@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Biotechnologies et Génie des Biomolécules (ERBGB) ?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 0677 57 22 49, E-mail : aaouni@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Couches Minces et Nanomatériaux (ERCMN) couvre-t-elle ?",
       "reponse": "Matériaux pour Stockage et Conversion d'énergie, Simulation Théorique et Modélisation"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Couches Minces et Nanomatériaux (ERCMN) ?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Couches Minces et Nanomatériaux (ERCMN)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Couches Minces et Nanomatériaux (ERCMN) ?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " ADDOU Mohamed maddou@uae.ac.ma DIANI Mustapha mdiani@uae.ac.ma CHAHBOU N Adil adchahboun@uae.ac.ma ZANOUNIN Mohamed mzanouni@uae.ac.ma EL METOUI Mustapha elmetoui@gmail.com AOUNI Abdesamad aaouni@uae.ac.ma JBILOU Mohamed mjbilou@uae.ac.ma CHATT Abdelhamid chatthamid@hotmail.com"
+      "question": "Quels sont les membres de l'équipe Couches Minces et Nanomatériaux (ERCMN)?",
+      "reponse": " ADDOU Mohamed, DIANI Mustapha, CHAHBOU N Adil, ZANOUNIN Mohamed, EL METOUI Mustapha, AOUNI Abdesamad, JBILOU Mohamed, CHATT Abdelhamid"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "DATA & INTELLIGENT SYSTEMS (DIS)"
+      "question": "Qui est le directeur de l'équipe DATA & INTELLIGENT SYSTEMS (DIS) ?",
+      "reponse": " Pr. GHADI Abderrahim, Spécialité : Informatique"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. GHADI Abderrahim, Spécialité : Informatique, Téléphone : 05 39 39 39 / 54 / 55, GSM : 0661 93 15 63, E-mail : aghadi@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe DATA & INTELLIGENT SYSTEMS (DIS) ?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 0661 93 15 63, E-mail : aghadi@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe DATA & INTELLIGENT SYSTEMS (DIS) couvre-t-elle ?",
       "reponse": "Data Mining, Decision Support Systems & Competitive Intelligence Systems, Graph & Complex Networks, Serious Game & Smart Learning, Smart Systems"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe DATA & INTELLIGENT SYSTEMS (DIS) ?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe DATA & INTELLIGENT SYSTEMS (DIS) ?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe DATA & INTELLIGENT SYSTEMS (DIS) ?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": "FENNAN Abdelhadi afennan@uae.ac.ma GHADI Abderrahim aghadi@uae.ac.ma ELAACHAK Lotfi elaachak@uae.ac.ma ZILI Hassan hzili@uae.ac.ma GIBET TANI Hicham h.gibettani@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe DATA & INTELLIGENT SYSTEMS (DIS)?",
+      "reponse": "FENNAN Abdelhadi, GHADI Abderrahim, ELAACHAK Lotfi, ZILI Hassan, GIBET TANI Hicham"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)"
+      "question": "Qui est le directeur de l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)?",
+      "reponse": " Pr. EN-NAIMI EL MOKHTAR, Spécialité : Informatique"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. EN-NAIMI EL MOKHTAR, Spécialité : Informatique, Téléphone/GSM : 06 60 10 46 78 / 06 62 74 88 00, E-mail : en-naimi@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)?",
+      "reponse": "Téléphone/GSM : 06 60 10 46 78 / 06 62 74 88 00, E-mail : en-naimi@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S) couvre-t-elle ?",
       "reponse": "Data Science, Machine Learning (ML) and Deep Learning (DL), Artificial Intelligence (AI), Distributed Artificial Intelligence (DAI) and Multi-Agents Systems (MAS), Smart Systems"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " EN-NAIMI EL MOKHTAR en-naimi@uae.ac.ma EL BRAK MOHAMED melbrak@uae.ac.ma ZOUHAIR ABDELHAMID a.zouhair@uae.ac.ma MAHBOUB AZIZ amahboub@uae.ac.ma EL GHOUCHNI HAD nihad.elghouch@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Data Science, Artificial Intelligence and Smart Systems (E-DSAI2S)?",
+      "reponse": " EN-NAIMI EL MOKHTAR, EL BRAK MOHAMED, ZOUHAIR ABDELHAMID, MAHBOUB AZIZ, EL GHOUCHNI NIHAD"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Génie Chimique et Valorisation des Ressources (GCVR)"
+      "question": "Qui est le directeur de l'équipe Génie Chimique et Valorisation des Ressources (GCVR)?",
+      "reponse": " Pr. CHAFIK Tarik, Spécialité : Génie des Procédés Catalytiques"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. CHAFIK Tarik, Spécialité : Génie des Procédés Catalytiques, Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 68 43 49 54, E-mail : tchafik@uae.ac.ma, Page Web : https://www.researchgate.net/lab/Tarik-Chafiks-lab-Tarik-Chafik"
+      "question": "Quelle est contact du directeur de l'équipe Génie Chimique et Valorisation des Ressources (GCVR)?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 68 43 49 54, E-mail : tchafik@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Génie Chimique et Valorisation des Ressources (GCVR) couvre-t-elle ?",
       "reponse": "Nanomatériaux pour énergie, Traitement des eaux, Production d'hydrogène, stockage et conversion d'énergie, Procédés de dépollution, Valorisation des Ressources"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Génie Chimique et Valorisation des Ressources (GCVR)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Génie Chimique et Valorisation des Ressources (GCVR) ?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Génie Chimique et Valorisation des Ressources (GCVR) ?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " CHAFIK Tarik tchafik@uae.ac.ma EL MOUJAHID Chaouki celmoujahid@uae.ac.ma ACHAK Ouafae oachak@uae.ac.ma LAKHMIRI RAJA Er lakhmiri@uae.ac.ma AMRANI Mahacine m.amrani2@uae.ac.ma ALLOUCH Mohamed mallouch@uae.ac.ma HAMDOUNE Faouzia fhamdoune@uae.ac.ma HAJJI Faouzia f.hajji@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Génie Chimique et Valorisation des Ressources (GCVR) ?",
+      "reponse": " CHAFIK Tarik, EL MOUJAHID Chaouki, ACHAK Ouafae, LAKHMIRI RAJA, AMRANI Mahacine, ALLOUCH Mohamed, HAMDOUNE Faouzia, HAJJI Faouzia"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Géoinformation, Aménagement du Territoire et Environnement (GATE)"
+      "question": "Qui est le directeur de l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE)?",
+      "reponse": " Pr. AMHARREF Mina, Spécialité : Sciences de la Terre Hydrogologie, SIG et Analyse spatiale"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. AMHARREF Mina, Spécialité : Sciences de la Terre : Hydrogologie, SIG et Analyse spatiale, Téléphone : 05 39 39 39 / 54 / 55, GSM : 0648 71 92 65, E-mail : m.amharref@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE)?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 0648 71 92 65, E-mail : m.amharref@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE) couvre-t-elle ?",
       "reponse": "Modélisation mathématiques des phénomènes environnementaux, Géoinformation appliquée à l'environnement et aux risques naturels, Vulnérabilité des systèmes spatio-temporels environnementaux, Dynamique des systèmes littoraux"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " AMHARREF Mina amharrefm@yahoo.fr EL ABDELLAOUI Jamal Eddine masgeoinfo@yahoo.fr BERNOUSSI Abdes Samed abernoussi@uae.ac.ma BELFEKIH Abdelaâziz abelfekih@gmail.com ES SAOUINI Hind essaouini.hind@gmail.com"
+      "question": "Quels sont les membres de l'équipe Géoinformation, Aménagement du Territoire et Environnement (GATE) ?",
+      "reponse": " AMHARREF Mina, EL ABDELLAOUI Jamal Eddine, BERNOUSSI Abdes Samed, BELFEKIH Abdelaâziz, ES SAOUINI Hind"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Géomatique, Télédétection et Cartographie (GoTCa)"
+      "question": "Qui est le directeur de l'équipe Géomatique, Télédétection et Cartographie (GoTCa)?",
+      "reponse": " Pr. MAATOUK MUSTAPHA, Spécialité : Géosciences de l'environnement/SIG"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. MAATOUK MUSTAPHA, Spécialité : Géosciences de l'environnement/SIG, Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 60 30 76 86, E-mail : mmaatouk@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Géomatique, Télédétection et Cartographie (GoTCa)?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 60 30 76 86, E-mail : mmaatouk@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Géomatique, Télédétection et Cartographie (GoTCa) couvre-t-elle ?",
       "reponse": "Géomatique et Aménagement du Territoire, Télédétection et Observation de la Terre, Cartographie des risques et résilience des territoires, Géomatique et développement durable, Géomatique et technologies géospatiales émergentes"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Géomatique, Télédétection et Cartographie (GoTCa)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Géomatique, Télédétection et Cartographie (GoTCa)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Géomatique, Télédétection et Cartographie (GoTCa)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": "Les membres de l'équipe ne sont pas spécifiés dans les données fournies."
+      "question": "Quels sont les membres de l'équipe  ?",
+      "reponse": "Aucune."
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "GoRisques & GoRessources (G2R)"
+      "question": "Qui est le directeur de l'équipe GoRisques & GoRessources (G2R)?",
+      "reponse": " Pr. Aboumaria Khadija, Spécialité : Géologie (Sédimentologie)"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. Aboumaria Khadija, Spécialité : Géologie (Sédimentologie), Téléphone : 05 39 39 39 / 54 / 55, GSM : 0661 10 53 47, E-mail : kaboumaria@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe GoRisques & GoRessources (G2R)?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 0661 10 53 47, E-mail : kaboumaria@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe GoRisques & GoRessources (G2R) couvre-t-elle ?",
       "reponse": "Géosciences de l'environnement, Minéralogie appliquée à l'environnement, Hydrogéologie, Mise en valeur des ressources naturelles (minières…), Risques naturels, Micropaléontologie appliquée à l'environnement actuel, Géophysique et géosismique, Géodynamique des bassins sédimentaires"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe GoRisques & GoRessources (G2R)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe GoRisques & GoRessources (G2R)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe GoRisques & GoRessources (G2R)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " ABOUMARIA Khadija kaboumaria@uae.ac.ma AFAILAL TRIBAK Abdelghani aafailal@uae.ac.ma BOUHMADI Belkacem b.bouhmadi@uae.ac.ma FKIHECH Abdelmalek a.fkihach@uae.ac.ma MOURABIT Taoufik t.mourabit@uae.ac.ma ROSSI Abdelhamid a.rossi@uae.ac.ma TAHAYT Abdelilah a.tahayt@uae.ac.ma ZAGHLOUL Mohamed Najib zaghloul@geologist.com"
+      "question": "Quels sont les membres de l'équipe GoRisques & GoRessources (G2R) ?",
+      "reponse": " ABOUMARIA Khadija, AFAILAL TRIBAK, BOUHMADI Belkacem, FKIHECH Abdelmalek, MOURABIT Taoufik, ROSSI Abdelhamid, TAHAYT Abdelilah, ZAGHLOUL Mohamed Najib"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Industrial Systems Engineering and Energy Conversion (ISEEC)"
+      "question": "Qui est le directeur de l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC) ?",
+      "reponse": " Pr. BOULAALA MOHAMMED, Spécialité : Génie électrique"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. BOULAALA MOHAMMED, Spécialité : Génie électrique, Téléphone : 05 39 39 39 / 54 / 55, GSM : 0664 24 92 93, E-mail : m.boulaala@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC) ?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 0664 24 92 93, E-mail : m.boulaala@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC) couvre-t-elle ?",
       "reponse": "Conversion d'énergie, énergie renouvelable, Robotique et vision, Ingénierie numérique"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " EL HARZLI MOHAMED melharzli@uae.ac.ma EL MRABET MHAMED melmrabet@uae.ac.ma HADJ BARAKA IBRAHIM ihadjbaraka@uae.ac.ma MEKRINI ZINEB zmekrini@uae.ac.ma EL MESBAHI ABDELILAH a.mesbahi@uae.ac.ma BENLAMLIH MOHAMMED benlamlih@gmail.com HAMDOUNE SALAHEDDINE shamdoun@hotmail.com BOULAALA MOHAMMED m.boulaala@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Industrial Systems Engineering and Energy Conversion (ISEEC) ?",
+      "reponse": " EL HARZLI MOHAMED, EL MRABET MHAMED, HADJ BARAKA IBRAHIM, MEKRINI ZINEB, EL MESBAHI ABDELILAH, BENLAMLIH MOHAMMED, HAMDOUNE SALAHEDDINE, BOULAALA MOHAMMED"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Ingénierie et Pilotage des Systèmes Innovants (IPSI)"
+      "question": "Qui est le directeur de l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI)?",
+      "reponse": " Pr. SEFIANI Naoufal, Spécialité : Génie Industriel"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. SEFIANI Naoufal, Spécialité : Génie Industriel, Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 67 98 48 83, E-mail : nsefiani@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI) ?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 67 98 48 83, E-mail : nsefiani@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI) couvre-t-elle ?",
       "reponse": "Ingénierie et pilotage des systèmes industriels, Industrie 4.0 et Supply Chain Management, Matériaux et procédés de fabrication innovants"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " FOURKA Mohamed mfourka@uae.ac.ma AZZOUZI Hamid h.azzouzi@uae.ac.ma SEFIANI Naoufal nsefiani@uae.ac.ma EL M RABET Hassan h.elmrabet@uae.ac.ma FIKRI BENBRAHIM Chahinaze c.fikribenbrahim@uae.ac.ma BOUCHAIB Abdelaziz a.bouchaib@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Ingénierie et Pilotage des Systèmes Innovants (IPSI) ?",
+      "reponse": " FOURKA Mohamed, AZZOUZI Hamid, SEFIANI Naoufal, EL M RABET Hassan, FIKRI BENBRAHIM Chahinaze, BOUCHAIB Abdelaziz"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Innovation et Ingénierie (II)"
+      "question": "Qui est le directeur de l'équipe Innovation et Ingénierie (II)?",
+      "reponse": " Pr. BENABDELLAH Abdellatif, Spécialité : Génie Mécanique et Énergétique"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. BENABDELLAH Abdellatif, Spécialité : Génie Mécanique et Énergétique, Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 66 43 16 24, E-mail : a.benabdellah@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Innovation et Ingénierie (II)?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 06 66 43 16 24, E-mail : a.benabdellah@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Innovation et Ingénierie (II) couvre-t-elle ?",
       "reponse": "Ingénierie, Innovation"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Innovation et Ingénierie (II) ?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Innovation et Ingénierie (II)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Innovation et Ingénierie (II)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " REKLAOUI Kamal kreklaoui@uae.ac.ma BEN ABDELLAH Abdellatif a.benabdellah@uae.ac.ma RECHIA Ahmed a.rechia@uae.a ATABI Hicham h.atabi@uae.ac.ma EL MESSAOUDI Driss driss_elmessaoudi@yahoo.fr HAYANI MECHKOURI Meriem mhayanimechkouri@uae.ac.ma"
-    },
-     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Matériaux, Environnement et Développement Durable (MEDD)"
+      "question": "Quels sont les membres de l'équipe Innovation et Ingénierie (II) ?",
+      "reponse": " REKLAOUI Kamal, BEN ABDELLAH Abdellatif, RECHIA Ahmed, ATABI Hicham, EL MESSAOUDI Driss, HAYANI MECHKOURI Meriem "
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. BEN ALLAL Lala, Spécialité : Génie Civil et Environnemental, Téléphone : 05 39 39 39 / 54 / 55, GSM : 0667 11 19 09, E-mail : lbenallal@uae.ac.ma"
+      "question": "Qui est le directeur de l'équipe Matériaux, Environnement et Développement Durable (MEDD)?",
+      "reponse": " Pr. BEN ALLAL Lala, Spécialité : Génie Civil et Environnemental"
+    },
+
+    {
+      "question": "Quelle est contact du directeur de l'équipe Matériaux, Environnement et Développement Durable (MEDD)?",
+      "reponse": "Téléphone : 05 39 39 39 / 54 / 55, GSM : 0667 11 19 09, E-mail : lbenallal@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Matériaux, Environnement et Développement Durable (MEDD) couvre-t-elle ?",
       "reponse": "Économie Circulaire et co-Matériaux, Changement Climatique, Valorisation des biodéchets, Développement Durable, Agroalimentaire"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Matériaux, Environnement et Développement Durable (MEDD)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Matériaux, Environnement et Développement Durable (MEDD)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Matériaux, Environnement et Développement Durable (MEDD)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " BEN ALLAL Lala lbenallal@uae.ac.ma EL AYADI Houda h.elayadi@uae.ac.ma AMMARI Mohammed mammari@uae.ac.ma FAKIH LANJRI Asmaa a.fakihlanjri@uae.ac.ma FATH ALLAH Rabie r.fathallah@uae.ac.ma BOUCHARA Aicha abouchara@uae.ac.ma BRIGUI Jamal j.brigui@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Matériaux, Environnement et Développement Durable (MEDD) ?",
+      "reponse": " BEN ALLAL Lala, EL AYADI Houda, AMMARI Mohammed, FAKIH LANJRI Asmaa, FATH ALLAH Rabie, BOUCHARA Aicha, BRIGUI Jamal"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Modélisation Mathématique et Contrôle (MMC)"
+      "question": "Qui est le directeur de l'équipe Modélisation Mathématique et Contrôle (MMC)?",
+      "reponse": " Pr. OUARDOUZ Mustapha, Spécialité : Modélisation Systèmes complexes"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. OUARDOUZ Mustapha, Spécialité : Modélisation Systèmes complexes, Téléphone/GSM : 06 61 23 06 37, E-mail : mouardouz@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Modélisation Mathématique et Contrôle (MMC)?",
+      "reponse": "Téléphone/GSM : 06 61 23 06 37, E-mail : mouardouz@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Modélisation Mathématique et Contrôle (MMC) couvre-t-elle ?",
       "reponse": "Génie Industriel, Modélisation et Contrôle, Mécanique et Matériaux"
     },
     {
-      "question": "Quels sont les projets de recherche de l'équipe ?",
+      "question": "Quels sont les projets de recherche de l'équipe Modélisation Mathématique et Contrôle (MMC)?",
       "reponse": "Tableau de bord des projets de recherche"
     },
     {
-      "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Modélisation Mathématique et Contrôle (MMC)?",
       "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-      "question": "Quelle est la production scientifique de l'équipe ?",
+      "question": "Quelle est la production scientifique de l'équipe Modélisation Mathématique et Contrôle (MMC)?",
       "reponse": "Tableau de bord Production Scientifique"
     },
     {
-      "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " FAKRI Nadia mfakri@uae.ac.ma ELFELESOUFI Zoubir zelfelsoufi@uae.ac.ma AKOURRI Omar oakourri@uae.ac.ma ELAYACHI Ilham ielayachi@uae.ac.ma OUARDOUZ Mustapha mouardouz@uae.ac.ma"
+      "question": "Quels sont les membres de l'équipe Modélisation Mathématique et Contrôle (MMC) ?",
+      "reponse": " FAKRI Nadia, ELFELESOUFI Zoubir, AKOURRI Omar, ELAYACHI Ilham, OUARDOUZ Mustapha"
     },
     {
-      "question": "Quelle est l'équipe de recherche ?",
-      "reponse": "Physique Appliquée (PA)"
+      "question": "Qui est le directeur de l'équipe Physique Appliquée (PA)?",
+      "reponse": " Pr. CHENTOUF Abdellah, Spécialité : Physique appliquée"
     },
     {
-      "question": "Qui est le directeur de l'équipe ?",
-      "reponse": "Directeur : Pr. CHENTOUF Abdellah, Spécialité : Physique appliquée, Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : achentouf@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Physique Appliquée (PA)?",
+      "reponse": "Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : achentouf@uae.ac.ma"
     },
     {
-      "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+      "question": "Quel(s) axe(s) de recherche l'équipe Physique Appliquée (PA) couvre-t-elle ?",
       "reponse": "Interaction rayonnement matière, Modélisation, Intelligence artificielle, Matière condensée"
     },
     {
@@ -417,118 +419,118 @@
     },
     {
       "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-      "reponse": " CHENTOUF Abdellah achentouf@uae.ac.ma DAANOUN Ali adaanoun@uae.ac.ma JEBARI Fouad fjebari@uae.ac.ma RACHAFI Said mrachafihausi@uae.ac.ma RUSI Elhassani Abdeljalil arusihassani@uae.ac.ma"
+      "reponse": " CHENTOUF Abdellah, DAANOUN Ali, JEBARI Fouad, RACHAFI Said, RUSI Elhassani Abdeljalil"
     },
     {
-    "question": "Quelle est l'équipe de recherche ?",
-    "reponse": "Recherche en Environnement Marin et Risques Naturels (EREMRN)"
+    "question": "Qui est le directeur de l'équipe Recherche en Environnement Marin et Risques Naturels (EREMRN)?",
+    "reponse": " Pr. EL ARRIM Abdelkrim, Spécialité : Géomatique Appliquée à l'Environnement"
     },
     {
-    "question": "Qui est le directeur de l'équipe ?",
-    "reponse": "Directeur : Pr. EL ARRIM Abdelkrim, Spécialité : Géomatique Appliquée à l'Environnement, Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : elarrimk@yahoo.fr"
+      "question": "Quelle est contact du directeur de l'équipe Physique Appliquée (PA)?",
+      "reponse": "Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : elarrimk@yahoo.fr"
     },
     {
-    "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
+    "question": "Quel(s) axe(s) de recherche l'équipe Recherche en Environnement Marin et Risques Naturels (EREMRN) couvre-t-elle ?",
     "reponse": "Matriaux pour Stockage et Conversion d'énergie, Simulation Théorique et Modélisation"
     },
     {
-    "question": "Quels sont les projets de recherche de l'équipe ?",
+    "question": "Quels sont les projets de recherche de l'équipe Recherche en Environnement Marin et Risques Naturels (EREMRN) ?",
     "reponse": "Tableau de bord des projets de recherche"
     },
     {
-    "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
+    "question": "Quels sont les thèses et habilitations soutenues par l'équipe Recherche en Environnement Marin et Risques Naturels (EREMRN) ?",
     "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-    "question": "Quelle est la production scientifique de l'équipe ?",
+    "question": "Quelle est la production scientifique de l'équipe Recherche en Environnement Marin et Risques Naturels (EREMRN) ?",
     "reponse": "Tableau de bord Production Scientifique"
     },
     {
-    "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-    "reponse": " BAKKALI Saad sbakkali@uae.ac.ma BENAOUICHA Said s.benaouicha@uae.ac.ma BOUZID Said asbouzid@uae.ac.ma DAMNATI Brahim bdamnati@uae.ac.ma EL ARRIM Abdelkrim k.elarrim@uae.ac.ma EL MOUMNI Bouchta bouchta.elmoumni@uae.ac.ma ER-RAIOUI Hassan h.erraoui@uae.ac.ma RAISSOUNI AHMED a.raissouni@uae.ac.ma"
+    "question": "Quels sont les membres de l'équipe Recherche en Environnement Marin et Risques Naturels (EREMRN) ?",
+    "reponse": " BAKKALI Saad, BENAOUICHA Said, BOUZID Said, DAMNATI Brahim, EL ARRIM Abdelkrim, EL MOUMNI Bouchta, ER-RAIOUI Hassan, RAISSOUNI AHMED"
     },
     {
-    "question": "Quelle est l'équipe de recherche ?",
-    "reponse": "Smart Systems & Emerging Technologies (SSET)"
-  },
-  {
-    "question": "Qui est le directeur de l'équipe ?",
-    "reponse": "Directeur : Pr. BOUDHIR ANOUAR ABDELHAKIM, Spécialité : Informatique, Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : aboudhir@uae.ac.ma"
-  },
-  {
-    "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
-    "reponse": "Réseaux Informatiques & IoT, Intelligence Artificielle, Jeux sérieux et réalité augmentée, Cloud & Systèmes répartis, Biotechnologie et E-Health, Immunologie Immunopathologie, Systèmes Embarqués et Électronique"
-  },
-  {
-    "question": "Quels sont les projets de recherche de l'équipe ?",
-    "reponse": "Tableau de bord des projets de recherche"
-  },
-  {
-    "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
-    "reponse": "Tableau de bord des thèses soutenues"
-  },
-  {
-    "question": "Quelle est la production scientifique de l'équipe ?",
-    "reponse": "Tableau de bord Production Scientifique"
-  },
-  {
-    "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-    "reponse": " EL AMRANI Chaker celamrani@gmail.com BEN AHMED Mohamed mbenahmed@uae.ac.ma EL OUAAI Fatiha elouaaif@gmail.com ASTITO Abdelali aastito@uae.ac.ma BOUDHIR Anouar Abdelhakim aboudhir@uae.ac.ma"
-  },
-    {
-    "question": "Quelle est l'équipe de recherche ?",
-    "reponse": "Transferts Thermiques et Energétique (ETTE)"
-  },
-  {
-    "question": "Qui est le directeur de l'équipe ?",
-    "reponse": "Directeur : Pr. Abdeslam DRAOUI, Spécialité : Thermique et Energétique, Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : adraoui@uae.ac.ma"
-  },
-  {
-    "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
-    "reponse": "Transferts Thermiques, Efficacité Energétique (Bâtiments ; Industrie ; Transport), Développements des Utilisations des Energies Renouvelables"
-  },
-  {
-    "question": "Quels sont les projets de recherche de l'équipe ?",
-    "reponse": "Tableau de bord des projets de recherche"
-  },
-  {
-    "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
-    "reponse": "Tableau de bord des thèses soutenues"
-  },
-  {
-    "question": "Quelle est la production scientifique de l'équipe ?",
-    "reponse": "Tableau de bord Production Scientifique"
-  },
-  {
-    "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-    "reponse": " BAHRAOUI Fatima fbahraoui@uae.ac.ma BENABDELOUAHAB Ja far jbenabdelouahab@uae.ac.ma DERFOUFI Soufiane sderfoufi@uae.ac.ma DRAOUI Abdeslam adraoui@uae.ac.ma MAHDAOUI Mustapha mmahdaoui@uae.ac.ma MAKROUM Hassan makroum@hotmail.com TLEMANI Nourredine n.tlemcani@uae.ac.ma"
-  },
-    {
-        "question": "Quelle est l'équipe de recherche ?",
-        "reponse": "Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI)"
+      "question": "Qui est le directeur de l'équipe Smart Systems & Emerging Technologies (SSET)?",
+      "reponse": " Pr. BOUDHIR ANOUAR ABDELHAKIM, Spécialité : Informatique"
     },
     {
-        "question": "Qui est le directeur de l'équipe ?",
-        "reponse": "Directeur : Pr. Barrijal Said, Spécialité : Biologie moléculaire, Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : s.barrijal@uae.ac.ma"
+      "question": "Quelle est contact du directeur de l'équipe Physique Appliquée (PA)?",
+      "reponse": "Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : aboudhir@uae.ac.ma"
     },
     {
-        "question": "Quel(s) axe(s) de recherche l'équipe couvre-t-elle ?",
-        "reponse": "Microbiologie Médicale, Phytopathologie, Lutte Biologique/Génétique, Diversité Génétique"
+      "question": "Quel(s) axe(s) de recherche l'équipe Smart Systems & Emerging Technologies (SSET) couvre-t-elle ?",
+      "reponse": "Réseaux Informatiques & IoT, Intelligence Artificielle, Jeux sérieux et réalité augmentée, Cloud & Systèmes répartis, Biotechnologie et E-Health, Immunologie Immunopathologie, Systèmes Embarqués et Électronique"
     },
     {
-        "question": "Quels sont les projets de recherche de l'équipe ?",
-        "reponse": "Tableau de bord des projets de recherche"
+      "question": "Quels sont les projets de recherche de l'équipe Smart Systems & Emerging Technologies (SSET) ?",
+      "reponse": "Tableau de bord des projets de recherche"
     },
     {
-        "question": "Quels sont les thèses et habilitations soutenues par l'équipe ?",
-        "reponse": "Tableau de bord des thèses soutenues"
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Smart Systems & Emerging Technologies (SSET) ?",
+      "reponse": "Tableau de bord des thèses soutenues"
     },
     {
-        "question": "Quelle est la production scientifique de l'équipe ?",
-        "reponse": "Tableau de bord Production Scientifique"
+      "question": "Quelle est la production scientifique de l'équipe Smart Systems & Emerging Technologies (SSET) ?",
+      "reponse": "Tableau de bord Production Scientifique"
     },
     {
-        "question": "Quels sont les membres de l'équipe et leurs contacts ?",
-        "reponse": " BARRIJAL Said s.barrijal@uae.ac.ma ESSALMANI Haiat hessalmani@gmail.com EL AMRANI Amale elamrania@hotmail.com LEBBADI Meriem lebbadim@hotmail.com LAIRINI Khalid khalidlairini@gmail.com ELBOUKARI Mohamed m.elboukari@uae.ac.ma"
-    }
+      "question": "Quels sont les membres de l'équipe Smart Systems & Emerging Technologies (SSET) et leurs contacts ?",
+      "reponse": " EL AMRANI Chaker, BEN AHMED Mohamed, EL OUAAI Fatiha, ASTITO Abdelali, BOUDHIR Anouar Abdelhakim"
+    },
+    {
+      "question": "Qui est le directeur de l'équipe Transferts Thermiques et Energétique (ETTE)?",
+      "reponse": " Pr. Abdeslam DRAOUI, Spécialité : Thermique et Energétique"
+    },
+    {
+      "question": "Quelle est contact du directeur de l'équipe Transferts Thermiques et Energétique (ETTE)?",
+      "reponse": "Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : adraoui@uae.ac.ma"
+    },
+    {
+      "question": "Quel(s) axe(s) de recherche l'équipe Transferts Thermiques et Energétique (ETTE) couvre-t-elle ?",
+      "reponse": "Transferts Thermiques, Efficacité Energétique (Bâtiments ; Industrie ; Transport), Développements des Utilisations des Energies Renouvelables"
+    },
+    {
+      "question": "Quels sont les projets de recherche de l'équipe Transferts Thermiques et Energétique (ETTE)?",
+      "reponse": "Tableau de bord des projets de recherche"
+    },
+    {
+      "question": "Quels sont les thèses et habilitations soutenues par l'équipe Transferts Thermiques et Energétique (ETTE)?",
+      "reponse": "Tableau de bord des thèses soutenues"
+    },
+    {
+      "question": "Quelle est la production scientifique de l'équipe Transferts Thermiques et Energétique (ETTE)?",
+      "reponse": "Tableau de bord Production Scientifique"
+    },
+    {
+      "question": "Quels sont les membres de l'équipe et leurs contacts Transferts Thermiques et Energétique (ETTE)?",
+      "reponse": " BAHRAOUI Fatima, BENABDELOUAHAB Jafar, DERFOUFI Soufiane, DRAOUI Abdeslam, MAHDAOUI Mustapha, MAKROUM Hassan, TLEMANI Nourredine"
+    },
+      {
+          "question": "Qui est le directeur de l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI)?",
+          "reponse": " Pr. Barrijal Said, Spécialité : Biologie moléculaire"
+      },
+    {
+      "question": "Quelle est contact du directeur de l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI)?",
+      "reponse": "Téléphone/GSM : 05 39 39 39 / 54 / 55, E-mail : s.barrijal@uae.ac.ma"
+    },
+      {
+          "question": "Quel(s) axe(s) de recherche l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI) couvre-t-elle ?",
+          "reponse": "Microbiologie Médicale, Phytopathologie, Lutte Biologique/Génétique, Diversité Génétique"
+      },
+      {
+          "question": "Quels sont les projets de recherche de l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI) ?",
+          "reponse": "Tableau de bord des projets de recherche"
+      },
+      {
+          "question": "Quels sont les thèses et habilitations soutenues par l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI) ?",
+          "reponse": "Tableau de bord des thèses soutenues"
+      },
+      {
+          "question": "Quelle est la production scientifique de l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI) ?",
+          "reponse": "Tableau de bord Production Scientifique"
+      },
+      {
+          "question": "Quels sont les membres de l'équipe Valorisation Biotechnologique des Microorganismes, Génomique et Bio-Informatique (VBMGBI) ?",
+          "reponse": " BARRIJAL Said, ESSALMANI Haiat, EL AMRANI Amale, LEBBADI Meriem, LAIRINI Khalid, ELBOUKARI Mohamed"
+      }
 ]
