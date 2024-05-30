@@ -1,28 +1,13 @@
-import json
-import csv
+import pandas as pd
 
-def json_to_csv(json_file, csv_file):
-    # Open the JSON file and load the data
-    with open(json_file, 'r') as f:
-        data = json.load(f)
+dataset=pd.read_csv('Scraping\question_reponse\data.csv')
 
-    # Extract the list of questions from the JSON data
-    questions = data['questions']
+# Rename the columns
+dataset.columns = ['instruction', 'output']
 
-    # Open CSV file in write mode
-    with open(csv_file, 'w', newline='') as f:
-        # Create a CSV writer object
-        writer = csv.writer(f)
+# Add an empty 'input' column
+dataset['input'] = ' '
 
-        # Write header using the keys of the first question
-        writer.writerow(questions[0].keys())
-
-        # Write each row using the values of each question
-        for question in questions:
-            writer.writerow(question.values())
-
-
-# Example usage
-json_file = 'Q&A.json'
-csv_file = 'data.csv'
-json_to_csv(json_file, csv_file)
+# Reorder columns to match the desired order: instruction, input, output
+dataset = dataset[['instruction', 'input', 'output']]
+dataset.to_csv('dataset.csv',index=False)
