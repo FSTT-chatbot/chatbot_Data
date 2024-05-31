@@ -1,13 +1,21 @@
-import pandas as pd
+import json
+import csv
 
-dataset=pd.read_csv('Scraping\question_reponse\data.csv')
+# Open the JSON file and load the data
+with open('Scraping/question_reponse/Question&answer&context.json', 'r', encoding='utf-8') as json_file:
+    data = json.load(json_file)
 
-# Rename the columns
-dataset.columns = ['instruction', 'output']
+# Open a CSV file for writing
+with open('output.csv', mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.writer(file)
+    # Write the header
+    writer.writerow(["question", "answer", "context"])
+    
+    # Write the data
+    for item in data['questions']:
+        question = item.get("question", "")
+        answer = item.get("answer", "")
+        context = item.get("context", "")
+        writer.writerow([question, answer, context])
 
-# Add an empty 'input' column
-dataset['input'] = ' '
-
-# Reorder columns to match the desired order: instruction, input, output
-dataset = dataset[['instruction', 'input', 'output']]
-dataset.to_csv('dataset.csv',index=False)
+print("Data has been written to output.csv")
