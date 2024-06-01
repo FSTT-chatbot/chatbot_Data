@@ -6,7 +6,7 @@ with open('Scraping/question_reponse/Question&answer&context.json', 'r', encodin
     data = json.load(json_file)
 
 # Open a CSV file for writing
-with open('Scraping\question_reponse\Contextdata.csv', mode='w', newline='', encoding='utf-8') as file:
+with open('Scraping\question_reponse\Finaldata.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     # Write the header
     writer.writerow(["question", "answer", "context"])

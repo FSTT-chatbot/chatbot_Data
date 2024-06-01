@@ -2,68 +2,19 @@
     "questions": [
     {
 "question": "Quelles sont les options de Master disponibles à FSTT ?",
-"answer": [
-"Analyse Appliquée et Ingénierie Statistique",
-"Bases Cellulaires et Moléculaires en Biotechnologie",
-"Environnement, Aquaculture et Développement Durable",
-"Géoressources Energétiques et Réservoirs",
-"Génie Civil",
-"Génie des Matériaux pour Plasturgie et Métallurgie",
-"Génie Energétique",
-"Ingénierie Environnementale, Changement Climatique et Développement Durable",
-"Intelligence Artificielle et Sciences de Données",
-"Mobiquité et Big Data",
-"Modélisation Mathématique et Science de Données",
-"Sciences Agroalimentaires",
-"Sciences de l'Environnement",
-"Sciences du Littoral: Approche Pluridisciplinaire",
-"Sécurité IT et Big Data",
-"Systèmes Informatiques et Mobiles"
-],
+"answer": "Analyse Appliquée et Ingénierie Statistique, Bases Cellulaires et Moléculaires en Biotechnologie, Environnement, Aquaculture et Développement Durable, Géoressources Energétiques et Réservoirs, Génie Civil, Génie des Matériaux pour Plasturgie et Métallurgie, Génie Energétique, Ingénierie Environnementale, Changement Climatique et Développement Durable, Intelligence Artificielle et Sciences de Données, Mobiquité et Big Data, Modélisation Mathématique et Science de Données, Sciences Agroalimentaires, Sciences de l'Environnement, Sciences du Littoral: Approche Pluridisciplinaire, Sécurité IT et Big Data, Systèmes Informatiques et Mobiles.",
+
 "context": "La question cherche à connaître les options de Master disponibles à FSTT."
 },
 {
 "question": "Quels cursus de Master sont enseignés à FSTT ?",
-"answer": [
-"Analyse Appliquée et Ingénierie Statistique",
-"Bases Cellulaires et Moléculaires en Biotechnologie",
-"Environnement, Aquaculture et Développement Durable",
-"Géoressources Energétiques et Réservoirs",
-"Génie Civil",
-"Génie des Matériaux pour Plasturgie et Métallurgie",
-"Génie Energétique",
-"Ingénierie Environnementale, Changement Climatique et Développement Durable",
-"Intelligence Artificielle et Sciences de Données",
-"Mobiquité et Big Data",
-"Modélisation Mathématique et Science de Données",
-"Sciences Agroalimentaires",
-"Sciences de l'Environnement",
-"Sciences du Littoral: Approche Pluridisciplinaire",
-"Sécurité IT et Big Data",
-"Systèmes Informatiques et Mobiles"
-],
+"answer": "Analyse Appliquée et Ingénierie Statistique, Bases Cellulaires et Moléculaires en Biotechnologie, Environnement, Aquaculture et Développement Durable, Géoressources Energétiques et Réservoirs, Génie Civil, Génie des Matériaux pour Plasturgie et Métallurgie, Génie Energétique, Ingénierie Environnementale, Changement Climatique et Développement Durable, Intelligence Artificielle et Sciences de Données, Mobiquité et Big Data, Modélisation Mathématique et Science de Données, Sciences Agroalimentaires, Sciences de l'Environnement, Sciences du Littoral: Approche Pluridisciplinaire, Sécurité IT et Big Data, Systèmes Informatiques et Mobiles.",
+
 "context": "La question cherche à connaître les cursus de Master enseignés à FSTT."
 },
 {
 "question": "Quels sont les programmes d'études Master disponibles à FSTT ?",
-"answer": [
-"Analyse Appliquée et Ingénierie Statistique",
-"Bases Cellulaires et Moléculaires en Biotechnologie",
-"Environnement, Aquaculture et Développement Durable",
-"Géoressources Energétiques et Réservoirs",
-"Génie Civil",
-"Génie des Matériaux pour Plasturgie et Métallurgie",
-"Génie Energétique",
-"Ingénierie Environnementale, Changement Climatique et Développement Durable",
-"Intelligence Artificielle et Sciences de Données",
-"Mobiquité et Big Data",
-"Modélisation Mathématique et Science de Données",
-"Sciences Agroalimentaires",
-"Sciences de l'Environnement",
-"Sciences du Littoral: Approche Pluridisciplinaire",
-"Sécurité IT et Big Data",
-"Systèmes Informatiques et Mobiles"
-],
+"answer": "Analyse Appliquée et Ingénierie Statistique, Bases Cellulaires et Moléculaires en Biotechnologie, Environnement, Aquaculture et Développement Durable, Géoressources Energétiques et Réservoirs, Génie Civil, Génie des Matériaux pour Plasturgie et Métallurgie, Génie Energétique, Ingénierie Environnementale, Changement Climatique et Développement Durable, Intelligence Artificielle et Sciences de Données, Mobiquité et Big Data, Modélisation Mathématique et Science de Données, Sciences Agroalimentaires, Sciences de l'Environnement, Sciences du Littoral: Approche Pluridisciplinaire, Sécurité IT et Big Data, Systèmes Informatiques et Mobiles.",
 "context": "La question cherche à connaître les programmes d'études Master disponibles à FSTT."
 },
 {

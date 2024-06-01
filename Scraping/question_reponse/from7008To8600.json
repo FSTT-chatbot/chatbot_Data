@@ -1565,325 +1565,107 @@
 },
 {
 "question": "Quels sont les formations DEUST proposées par FSTT ?",
-"answer": [
-"BIOLOGIE-CHIMIE-GEOLOGIE (BCG)",
-"GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)"
-],
+"answer": "BIOLOGIE-CHIMIE-GEOLOGIE (BCG), GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)",
 "context": "La question cherche à connaître les formations DEUST proposées par FSTT."
 },
 {
 "question": "Quels programmes DEUST sont disponibles à FSTT ?",
-"answer": [
-"BIOLOGIE-CHIMIE-GEOLOGIE (BCG)",
-"GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)"
-],
+"answer": "BIOLOGIE-CHIMIE-GEOLOGIE (BCG), GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)",
 "context": "La question cherche à connaître les programmes DEUST disponibles à FSTT."
 },
 {
 "question": "Quels sont les DEUST offerts par FSTT ?",
-"answer": [
-"BIOLOGIE-CHIMIE-GEOLOGIE (BCG)",
-"GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)"
-]
+"answer": "BIOLOGIE-CHIMIE-GEOLOGIE (BCG), GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)",
+"context": "La question cherche à connaître les DEUST offerts par FSTT."
 },
 {
 "question": "Quelles sont les options DEUST disponibles à FSTT ?",
-"answer": [
-"BIOLOGIE-CHIMIE-GEOLOGIE (BCG)",
-"GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)"
-],
+"answer": "BIOLOGIE-CHIMIE-GEOLOGIE (BCG), GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)",
 "context": "La question cherche à savoir quelles sont les options DEUST disponibles à FSTT."
 },
 {
 "question": "Quels cursus DEUST sont enseignés à FSTT ?",
-"answer": [
-"BIOLOGIE-CHIMIE-GEOLOGIE (BCG)",
-"GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)"
-],
+"answer": "BIOLOGIE-CHIMIE-GEOLOGIE (BCG), GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)",
 "context": "La question cherche à connaître les cursus DEUST enseignés à FSTT."
 },
 {
 "question": "Quels sont les programmes d'études DEUST disponibles à FSTT ?",
-"answer": [
-"BIOLOGIE-CHIMIE-GEOLOGIE (BCG)",
-"GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP)",
-"MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)"
-],
+"answer": "BIOLOGIE-CHIMIE-GEOLOGIE (BCG), GÉNIE ELECTRIQUE – GÉNIE MÉCANIQUE (GE-GM), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE (MIP), MATHÉMATIQUES-INFORMATIQUE-PHYSIQUE-CHIMIE (MIPC)",
 "context": "La question cherche à savoir quels sont les programmes d'études DEUST disponibles à FSTT."
 },
 {
 "question": "Quels sont les formations Licence proposées par FSTT ?",
-"answer": [
-"Analytique des données",
-"Biotechnologies (Options : animale et végétale)",
-"Design Industriel et Productique (DIP)",
-"Énergies Renouvelables (EnR)",
-"Génie civil",
-"Génie des Procédés",
-"Génie Électrique Option: Génie\nÉlectrique & Système Industriel",
-"Génie Industriel",
-"Génie Informatique",
-"Géosciences Appliquées",
-"Ingénierie de Développement d’Applications\nInformatiques",
-"Ingénierie Statistique",
-"Mathématiques et Applications",
-"Mathématiques et Informatique Décisionnelles",
-"Risques et Ressources Naturels",
-"Statistique et Science des Données",
-"Techniques d'Analyses Chimiques (TAC)"
-],
-"context": "La question cherche à connaître les formations Licence proposées par FSTT."
+"answer": "Analytique des données, Biotechnologies (Options : animale et végétale), Design Industriel et Productique (DIP), Énergies Renouvelables (EnR), Génie civil, Génie des Procédés, Génie Électrique Option: Génie Électrique & Système Industriel, Génie Industriel, Génie Informatique, Géosciences Appliquées, Ingénierie de Développement d’Applications Informatiques, Ingénierie Statistique, Mathématiques et Applications, Mathématiques et Informatique Décisionnelles, Risques et Ressources Naturels, Statistique et Science des Données, Techniques d'Analyses Chimiques (TAC)",
+"context": "La question cherche à connaître les formations LST proposées par FSTT."
 },
 {
-"question": "Quels programmes de Licence sont disponibles à FSTT ?",
-"answer": [
-"Analytique des données",
-"Biotechnologies (Options : animale et végétale)",
-"Design Industriel et Productique (DIP)",
-"Énergies Renouvelables (EnR)",
-"Génie civil",
-"Génie des Procédés",
-"Génie Électrique Option: Génie Électrique & Système Industriel",
-"Génie Industriel",
-"Génie Informatique",
-"Géosciences Appliquées",
-"Ingénierie de Développement d’Applications Informatiques",
-"Ingénierie Statistique",
-"Mathématiques et Applications",
-"Mathématiques et Informatique Décisionnelles",
-"Risques et Ressources Naturels",
-"Statistique et Science des Données",
-"Techniques d'Analyses Chimiques (TAC)"
-],
+"question": "Quels programmes de LST sont disponibles à FSTT ?",
+"answer": "Analytique des données, Biotechnologies (Options : animale et végétale), Design Industriel et Productique (DIP), Énergies Renouvelables (EnR), Génie civil, Génie des Procédés, Génie Électrique Option: Génie Électrique & Système Industriel, Génie Industriel, Génie Informatique, Géosciences Appliquées, Ingénierie de Développement d’Applications Informatiques, Ingénierie Statistique, Mathématiques et Applications, Mathématiques et Informatique Décisionnelles, Risques et Ressources Naturels, Statistique et Science des Données, Techniques d'Analyses Chimiques (TAC)",
 "context": "La question cherche à connaître les programmes de Licence disponibles à FSTT."
 },
 {
 "question": "Quels sont les programmes de Licence offerts par FSTT ?",
-"answer": [
-"Analytique des données",
-"Biotechnologies (Options : animale et végétale)",
-"Design Industriel et Productique (DIP)",
-"Énergies Renouvelables (EnR)",
-"Génie civil",
-"Génie des Procédés",
-"Génie Électrique Option: Génie Électrique & Système Industriel",
-"Génie Industriel",
-"Génie Informatique",
-"Géosciences Appliquées",
-"Ingénierie de Développement d’Applications Informatiques",
-"Ingénierie Statistique",
-"Mathématiques et Applications",
-"Mathématiques et Informatique Décisionnelles",
-"Risques et Ressources Naturels",
-"Statistique et Science des Données",
-"Techniques d'Analyses Chimiques (TAC)"
-],
+"answer": "Analytique des données, Biotechnologies (Options : animale et végétale), Design Industriel et Productique (DIP), Énergies Renouvelables (EnR), Génie civil, Génie des Procédés, Génie Électrique Option: Génie Électrique & Système Industriel, Génie Industriel, Génie Informatique, Géosciences Appliquées, Ingénierie de Développement d’Applications Informatiques, Ingénierie Statistique, Mathématiques et Applications, Mathématiques et Informatique Décisionnelles, Risques et Ressources Naturels, Statistique et Science des Données, Techniques d'Analyses Chimiques (TAC)",
 "context": "La question cherche à connaître les programmes de Licence offerts par FSTT."
 },
 {
 "question": "Quelles sont les options de Licence disponibles à FSTT ?",
-"answer": [
-"Analytique des données",
-"Biotechnologies (Options : animale et végétale)",
-"Design Industriel et Productique (DIP)",
-"Énergies Renouvelables (EnR)",
-"Génie civil",
-"Génie des Procédés",
-"Génie Électrique Option: Génie Électrique & Système Industriel",
-"Génie Industriel",
-"Génie Informatique",
-"Géosciences Appliquées",
-"Ingénierie de Développement d’Applications Informatiques",
-"Ingénierie Statistique",
-"Mathématiques et Applications",
-"Mathématiques et Informatique Décisionnelles",
-"Risques et Ressources Naturels",
-"Statistique et Science des Données",
-"Techniques d'Analyses Chimiques (TAC)"
-],
+"answer": "Analytique des données, Biotechnologies (Options : animale et végétale), Design Industriel et Productique (DIP), Énergies Renouvelables (EnR), Génie civil, Génie des Procédés, Génie Électrique Option: Génie Électrique & Système Industriel, Génie Industriel, Génie Informatique, Géosciences Appliquées, Ingénierie de Développement d’Applications Informatiques, Ingénierie Statistique, Mathématiques et Applications, Mathématiques et Informatique Décisionnelles, Risques et Ressources Naturels, Statistique et Science des Données, Techniques d'Analyses Chimiques (TAC)",
 "context": "La question cherche à connaître les options de Licence disponibles à FSTT."
 },
 {
 "question": "Quels cursus de Licence sont enseignés à FSTT ?",
-"answer": [
-"Analytique des données",
-"Biotechnologies (Options : animale et végétale)",
-"Design Industriel et Productique (DIP)",
-"Énergies Renouvelables (EnR)",
-"Génie civil",
-"Génie des Procédés",
-"Génie Électrique Option: Génie Électrique & Système Industriel",
-"Génie Industriel",
-"Génie Informatique",
-"Géosciences Appliquées",
-"Ingénierie de Développement d’Applications Informatiques",
-"Ingénierie Statistique",
-"Mathématiques et Applications",
-"Mathématiques et Informatique Décisionnelles",
-"Risques et Ressources Naturels",
-"Statistique et Science des Données",
-"Techniques d'Analyses Chimiques (TAC)"
-],
+"answer": "Analytique des données, Biotechnologies (Options : animale et végétale), Design Industriel et Productique (DIP), Énergies Renouvelables (EnR), Génie civil, Génie des Procédés, Génie Électrique Option: Génie Électrique & Système Industriel, Génie Industriel, Génie Informatique, Géosciences Appliquées, Ingénierie de Développement d’Applications Informatiques, Ingénierie Statistique, Mathématiques et Applications, Mathématiques et Informatique Décisionnelles, Risques et Ressources Naturels, Statistique et Science des Données, Techniques d'Analyses Chimiques (TAC)",
 "context": "La question cherche à connaître les cursus de Licence enseignés à FSTT."
 },
 {
 "question": "Quels sont les programmes d'études Licence disponibles à FSTT ?",
-"answer": [
-"Analytique des données",
-"Biotechnologies (Options : animale et végétale)",
-"Design Industriel et Productique (DIP)",
-"Énergies Renouvelables (EnR)",
-"Génie civil",
-"Génie des Procédés",
-"Génie Électrique Option: Génie Électrique & Système Industriel",
-"Génie Industriel",
-"Génie Informatique",
-"Géosciences Appliquées",
-"Ingénierie de Développement d’Applications Informatiques",
-"Ingénierie Statistique",
-"Mathématiques et Applications",
-"Mathématiques et Informatique Décisionnelles",
-"Risques et Ressources Naturels",
-"Statistique et Science des Données",
-"Techniques d'Analyses Chimiques (TAC)"
-],
+"answer": "Analytique des données, Biotechnologies (Options : animale et végétale), Design Industriel et Productique (DIP), Énergies Renouvelables (EnR), Génie civil, Génie des Procédés, Génie Électrique Option: Génie Électrique & Système Industriel, Génie Industriel, Génie Informatique, Géosciences Appliquées, Ingénierie de Développement d’Applications Informatiques, Ingénierie Statistique, Mathématiques et Applications, Mathématiques et Informatique Décisionnelles, Risques et Ressources Naturels, Statistique et Science des Données, Techniques d'Analyses Chimiques (TAC)",
 "context": "La question cherche à connaître les programmes d'études Licence disponibles à FSTT."
 },
 {
 "question": "Quels sont les formations Master proposées par FSTT ?",
-"answer": [
-"Analyse Appliquée et Ingénierie Statistique",
-"Bases Cellulaires et Moléculaires en Biotechnologie",
-"Environnement, Aquaculture et Développement Durable",
-"Géoressources Energétiques et Réservoirs",
-"Génie Civil",
-"Génie des Matériaux pour Plasturgie et Métallurgie",
-"Génie Energétique",
-"Ingénierie Environnementale, Changement Climatique et Développement Durable",
-"Intelligence Artificielle et Sciences de Données",
-"Mobiquité et Big Data",
-"Modélisation Mathématique et Science de Données",
-" Sciences Agroalimentaires",
-"Sciences de l'Environnement",
-"Sciences du Littoral: Approche Pluridisciplinaire",
-"Sécurité IT et Big Data",
-"Systèmes Informatiques  et Mobiles"
-],
+"answer": "Analyse Appliquée et Ingénierie Statistique et Bases Cellulaires et Moléculaires en Biotechnologie et Environnement, Aquaculture et Développement Durable et Géoressources Energétiques et Réservoirs et Génie Civil et Génie des Matériaux pour Plasturgie et Métallurgie et Génie Energétique et Ingénierie Environnementale, Changement Climatique et Développement Durable et Intelligence Artificielle et Sciences de Données et Mobiquité et Big Data et Modélisation Mathématique et Science de Données et Sciences Agroalimentaires et Sciences de l'Environnement et Sciences du Littoral: Approche Pluridisciplinaire et Sécurité IT et Big Data et Systèmes Informatiques  et Mobiles",   
 "context": "La question cherche à connaître les formations Master proposées par FSTT."
 },
 {
 "question": "Quels sont les formations Cycle Ingénieur proposées par FSTT ?",
-"answer": [
-"Génie Electrique et Management Industriel",
-"Génie Industriel",
-"Géoinformation",
-"Logiciels et Systèmes Intelligents"
-],
+"answer": "Génie Electrique et Management Industriel, Génie Industriel, Géoinformation, Logiciels et Systèmes Intelligents",
 "context": "La question cherche à connaître les formations Cycle Ingénieur proposées par FSTT."
 },
 {
 "question": "Quels programmes de Cycle Ingénieur sont disponibles à FSTT ?",
-"answer": [
-"Génie Electrique et Management Industriel",
-"Génie Industriel",
-"Géoinformation",
-"Logiciels et Systèmes Intelligents"
-],
+"answer": "Génie Electrique et Management Industriel, Génie Industriel, Géoinformation, Logiciels et Systèmes Intelligents",
 "context": "La question cherche à connaître les programmes de Cycle Ingénieur disponibles à FSTT."
 },
 {
 "question": "Quels sont les programmes de Cycle Ingénieur offerts par FSTT ?",
-"answer": [
-"Génie Electrique et Management Industriel",
-"Génie Industriel",
-"Géoinformation",
-"Logiciels et Systèmes Intelligents"
-],
+"answer": "Génie Electrique et Management Industriel, Génie Industriel, Géoinformation, Logiciels et Systèmes Intelligents",
 "context": "La question cherche à connaître les programmes de Cycle Ingénieur offerts par FSTT."
 },
 {
 "question": "Quelles sont les options de Cycle Ingénieur disponibles à FSTT ?",
-"answer": [
-"Génie Electrique et Management Industriel",
-"Génie Industriel",
-"Géoinformation",
-"Logiciels et Systèmes Intelligents"
-],
+"answer": "Génie Electrique et Management Industriel, Génie Industriel, Géoinformation, Logiciels et Systèmes Intelligents",
 "context": "La question cherche à connaître les options de Cycle Ingénieur disponibles à FSTT."
 },
 {
 "question": "Quels cursus de Cycle Ingénieur sont enseignés à FSTT ?",
-"answer": [
-"Génie Electrique et Management Industriel",
-"Génie Industriel",
-"Géoinformation",
-"Logiciels et Systèmes Intelligents"
-],
+"answer": "Génie Electrique et Management Industriel, Génie Industriel, Géoinformation, Logiciels et Systèmes Intelligents",
 "context": "La question cherche à connaître les cursus de Cycle Ingénieur enseignés à FSTT."
 },
 {
 "question": "Quels sont les programmes d'études Cycle Ingénieur disponibles à FSTT ?",
-"answer": [
-"Génie Electrique et Management Industriel",
-"Génie Industriel",
-"Géoinformation",
-"Logiciels et Systèmes Intelligents"
-],
+"answer": "Génie Electrique et Management Industriel, Génie Industriel, Géoinformation, Logiciels et Systèmes Intelligents",
 "context": "These are the programs of study for Cycle Ingénieur at FSTT."
 },
 {
 "question": "Quels programmes de Master sont disponibles à FSTT ?",
-"answer": [
-"Analyse Appliquée et Ingénierie Statistique",
-"Bases Cellulaires et Moléculaires en Biotechnologie",
-"Environnement, Aquaculture et Développement Durable",
-"Géoressources Energétiques et Réservoirs",
-"Génie Civil",
-"Génie des Matériaux pour Plasturgie et Métallurgie",
-"Génie Energétique",
-"Ingénierie Environnementale, Changement Climatique et Développement Durable",
-"Intelligence Artificielle et Sciences de Données",
-"Mobiquité et Big Data",
-"Modélisation Mathématique et Science de Données",
-"Sciences Agroalimentaires",
-"Sciences de l'Environnement",
-"Sciences du Littoral: Approche Pluridisciplinaire",
-"Sécurité IT et Big Data",
-"Systèmes Informatiques  et Mobiles"
-],
+"answer": "Analyse Appliquée et Ingénierie Statistique et Bases Cellulaires et Moléculaires en Biotechnologie et Environnement, Aquaculture et Développement Durable et Géoressources Energétiques et Réservoirs et Génie Civil et Génie des Matériaux pour Plasturgie et Métallurgie et Génie Energétique et Ingénierie Environnementale, Changement Climatique et Développement Durable et Intelligence Artificielle et Sciences de Données et Mobiquité et Big Data et Modélisation Mathématique et Science de Données et Sciences Agroalimentaires et Sciences de l'Environnement et Sciences du Littoral: Approche Pluridisciplinaire et Sécurité IT et Big Data et Systèmes Informatiques  et Mobiles",   
 "context": "These are the Master programs available at FSTT."
 },
 {
 "question": "Quels sont les programmes de Master offerts par FSTT ?",
-"answer": [
-"Analyse Appliquée et Ingénierie Statistique",
-"Bases Cellulaires et Moléculaires en Biotechnologie",
-"Environnement, Aquaculture et Développement Durable",
-"Géoressources Energétiques et Réservoirs",
-"Génie Civil",
-"Génie des Matériaux pour Plasturgie et Métallurgie",
-"Génie Energétique",
-"Ingénierie Environnementale, Changement Climatique et Développement Durable",
-"Intelligence Artificielle et Sciences de Données",
-"Mobiquité et Big Data",
-"Modélisation Mathématique et Science de Données",
-"Sciences Agroalimentaires",
-"Sciences de l'Environnement",
-"Sciences du Littoral: Approche Pluridisciplinaire",
-"Sécurité IT et Big Data",
-"Systèmes Informatiques  et Mobiles"
-],
+"answer": "Analyse Appliquée et Ingénierie Statistique et Bases Cellulaires et Moléculaires en Biotechnologie et Environnement, Aquaculture et Développement Durable et Géoressources Energétiques et Réservoirs et Génie Civil et Génie des Matériaux pour Plasturgie et Métallurgie et Génie Energétique et Ingénierie Environnementale, Changement Climatique et Développement Durable et Intelligence Artificielle et Sciences de Données et Mobiquité et Big Data et Modélisation Mathématique et Science de Données et Sciences Agroalimentaires et Sciences de l'Environnement et Sciences du Littoral: Approche Pluridisciplinaire et Sécurité IT et Big Data et Systèmes Informatiques  et Mobiles",   
 "context": "These are the Master programs offered by FSTT."
 }
 ]
