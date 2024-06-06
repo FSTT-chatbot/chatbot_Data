@@ -5,15 +5,10 @@ This repository contains the code and data for the FSTT Chatbot project. The pro
 ## Project Structure
 
 chatbot_Data/
-
 ├── fine_tuning/
-
 │ ├── finetuning.ipynb
-
 │ ├── model_final.ipynb
-
 │ └── test_de_module.ipynb
-
 ├── Scraping/
 
 │ ├── json_files/
