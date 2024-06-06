@@ -2,51 +2,6 @@
 
 This repository contains the code and data for the FSTT Chatbot project. The project involves web scraping, data preprocessing, and fine-tuning a chatbot model to answer questions related to the FSTT (Faculté des Sciences et Techniques de Tanger).
 
-## Project Structure
-
-chatbot_Data/
-├── fine_tuning/
-│ ├── finetuning.ipynb
-│ ├── model_final.ipynb
-│ └── test_de_module.ipynb
-├── Scraping/
-
-│ ├── json_files/
-
-│ │ ├── Equipes.json
-
-│ │ ├── formation_continu.json
-
-│ │ ├── Formation_cycle.json
-
-│ │ ├── Formation_deust.json
-
-│ │ ├── Formation_initial.json
-
-│ │ ├── Formation_licence.json
-
-│ │ ├── Formation_master.json
-
-│ │ └── Laboratoire.json
-
-│ ├── question_reponse/
-
-│ │ ├── Finaldata.csv
-
-│ │ ├── json_to_csv.py
-
-│ │ └── Question&answer&context.json
-
-│ ├── FSTT_DATA.txt
-
-│ ├── FSTT_Web_Scraping_Formation_part.ipynb
-
-│ └── FSTT_Web_Scraping_presentation_part.ipynb
-
-├── Fine-tuning_dataset.csv
-
-└── FSTT_chatbot.iml
-
 ### Directories and Files
 
 - **fine_tuning/**: Contains Jupyter notebooks for fine-tuning the chatbot model.
